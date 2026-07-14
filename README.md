@@ -1,11 +1,12 @@
-<p align="center">
-<h1 align="center">🚌 Smart Bus Ticketing & Reservation System</h1>
+# 🚌 Smart Bus Ticketing & Reservation System
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 > **BCA Final Year Project (Completed: August 2024)**
 
 A web-based **Smart Bus Ticketing & Reservation System** developed using **Python, Django, MySQL, HTML, CSS, JavaScript, and Bootstrap**.
@@ -384,7 +385,7 @@ This repository has been created only to demonstrate:
 
 📧 ranirakshatha@gmail.com
 
-🔗 LinkedIn:https://www.linkedin.com/in/rakshatha-rani-90a11a2a3/
+🔗 LinkedIn: https://www.linkedin.com/in/rakshatha-rani-90a11a2a3/
 
 ---
 
